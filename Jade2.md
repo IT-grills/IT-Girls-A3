@@ -6,11 +6,9 @@ This is a paragraph, shown in the Arial font.
 <html>
 <head>
 <style>
-<html>
-<style>
     /* Border heading */
 h1 {
-    color: white;
+    color: black;
     font-family: Times New Roman;
     font-size: 90px;
     text-align:center;
@@ -50,7 +48,6 @@ p  {
 <h2>Tile heading (subheading)</h2>
 <h3>Subheading </p1>
 <h4>sub-subheadings</h4>
-<br>
 <h4> genral text (paragraphs)</p2>
 </body>
 </html>
