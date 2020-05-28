@@ -1,4 +1,5 @@
 # IT-Girls-A3
+<html>
 <style>
     /* Border heading */
 h1 {
@@ -29,6 +30,5 @@ p2  {
     color: black;    
 }
 </style>
-<html>
     <h2> This is the Subheading</h2>
 </html>
