@@ -19,7 +19,7 @@ h1 {
 h2 {
     color:black;
     font-family: Times New Roman;
-    font-size: 50px;
+    font-size: 60px;
     text-align:center;   
 }
     /* h2 is Subheading (sub-subheadings) eg. Week 1, - Meeting Tuesday 4th May 2020 12:30pm, skils, Qualifications etc. */
