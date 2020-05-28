@@ -7,7 +7,7 @@ h1 {
     font-size: 90px;
     text-align:center;
 }
-    /* Tile heading eg Project description, Overview ectc.*/
+    /* Tile heading (subheadings) eg Project description, Overview ectc.*/
 h2 {
     color:black;
     font-family: Times New Roman;
