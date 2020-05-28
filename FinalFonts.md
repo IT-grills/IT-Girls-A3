@@ -24,21 +24,21 @@ h2 {
 h3  {
     font-family: Century Gothic;
     font-size: 180%;
-    text-align:center;
+    text-align:left;
     color: black;   
 }
     /* genral text (paragraphs) */
 h4  {
     font-family: Century Gothic;
     font-size: 160%;
-    text-align:center;
+    text-align:left;
     color: black;    
 }
 p  {
     font-family: Century Gothic;
     font-size: 120%;
     text-align:center;
-    color: black;    
+    color: left;    
 }
     
 </style>
