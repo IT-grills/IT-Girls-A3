@@ -23,27 +23,35 @@ h2 {
     text-align:center;   
 }
     /* h2 is Subheading (sub-subheadings) eg. Week 1, - Meeting Tuesday 4th May 2020 12:30pm, skils, Qualifications etc. */
-p1  {
+h3  {
     font-family: Century Gothic;
-    font-size: 160%;
+    font-size: 180%;
     text-align:center;
     color: black;   
 }
     /* genral text (paragraphs) */
-p2  {
+h4  {
+    font-family: Century Gothic;
+    font-size: 140%;
+    text-align:center;
+    color: black;    
+}
+p  {
     font-family: Century Gothic;
     font-size: 120%;
     text-align:center;
     color: black;    
 }
+    
 </style>
 </head>
 <body>
-<h1>Border heading</h1>
+<h1>Border heading/tab heading</h1>
 <h2>Tile heading (subheading)</h2>
-<p1>Subheading (sub-subheadings)</p1>
+<h3><b>Subheading </p1></b>
+<h4>sub-subheadings</h4>
 <br>
-<p2>genral text (paragraphs)</p2>
+<h4> genral text (paragraphs)</p2>
 </body>
 </html>
 
