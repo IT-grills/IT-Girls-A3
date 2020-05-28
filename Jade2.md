@@ -48,7 +48,7 @@ p  {
 <body>
 <h1>Border heading/tab heading</h1>
 <h2>Tile heading (subheading)</h2>
-<h3><b>Subheading </p1></b>
+<h3>Subheading </p1>
 <h4>sub-subheadings</h4>
 <br>
 <h4> genral text (paragraphs)</p2>
