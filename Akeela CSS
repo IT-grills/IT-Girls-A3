@@ -1,0 +1,30 @@
+# IT-Girls-A3
+<style>
+    /* Border heading */
+h1 {
+    color: white;
+    font-family:Arial Black;
+    font-size: 90px;
+    text-align:center;
+}
+    /* Tile heading (subheadings) eg Project description, Overview ectc.*/
+h2 {
+    color:black;
+    font-family: Lucida Grande", sans-serif;
+    font-size: 50px;
+    text-align:center;   
+}
+    /* Subheading (sub-subheadings) eg. Week 1, - Meeting Tuesday 4th May 2020 12:30pm, skils, Qualifications etc. */
+p1  {
+    font-family: Lucida Sans Unicode;
+    font-size: 60%;
+    text-align:center;
+    color: black;   
+}
+    /* genral text (paragraphs) */
+p2  {
+    font-family: Lucida Sans Unicode;
+    font-size: 50%;
+    text-align:center;
+    color: black;    
+}
