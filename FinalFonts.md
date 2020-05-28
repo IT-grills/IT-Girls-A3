@@ -8,7 +8,7 @@ This is a paragraph, shown in the Arial font.
 <style>
     /* Border heading */
 h1 {
-    color: black;
+    color: white;
     font-family: Times New Roman;
     font-size: 90px;
     text-align:center;
@@ -30,7 +30,7 @@ h3  {
     /* genral text (paragraphs) */
 h4  {
     font-family: Century Gothic;
-    font-size: 140%;
+    font-size: 160%;
     text-align:center;
     color: black;    
 }
@@ -48,7 +48,7 @@ p  {
 <h2>Tile heading (subheading)</h2>
 <h3>Subheading </p1>
 <h4>sub-subheadings</h4>
-<h4> genral text (paragraphs)</p2>
+<p> genral text (paragraphs)</p>
 </body>
 </html>
 
