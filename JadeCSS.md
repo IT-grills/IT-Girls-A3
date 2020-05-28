@@ -7,14 +7,14 @@ h1 {
     font-size: 90px;
     text-align:center;
 }
-    /* Tile heading (subheadings) eg Project description, Overview ectc.*/
+    /* Tile heading eg Project description, Overview ectc. H1 is border heading*/
 h2 {
     color:black;
     font-family: Times New Roman;
     font-size: 50px;
     text-align:center;   
 }
-    /* Subheading (sub-subheadings) eg. Week 1, - Meeting Tuesday 4th May 2020 12:30pm, skils, Qualifications etc. */
+    /* h2 is Subheading (sub-subheadings) eg. Week 1, - Meeting Tuesday 4th May 2020 12:30pm, skils, Qualifications etc. */
 p1  {
     font-family: Century Gothic;
     font-size: 60%;
@@ -28,3 +28,7 @@ p2  {
     text-align:center;
     color: black;    
 }
+</style>
+<html>
+    <h2> This is the Subheading</h2>
+</html>
